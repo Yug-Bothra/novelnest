@@ -151,9 +151,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+License
+This project is for educational purposes only as part of my college minor project. Not licensed for redistribution or commercial use.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright © 2025 Yug Bothra  
+All rights reserved.  
+This project is a personal college minor project and is not available for public reuse, modification, or distribution without explicit permission.
+
 
 ## 🙏 Acknowledgments
 
